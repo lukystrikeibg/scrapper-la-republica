@@ -1,4 +1,4 @@
-[wbs]
+#este es un scrapper la republica
 
 
 import requests
