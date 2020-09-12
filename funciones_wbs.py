@@ -1,4 +1,7 @@
-i   def parse_notice(link,today):
+# este es el mater
+
+
+   def parse_notice(link,today):
     try:
         response= requests.get(link)
         if response.status_code==200:
@@ -26,11 +29,11 @@ i   def parse_notice(link,today):
             raise ValueError(f'error:{response.status_code}')
 
     except  ValueError as ve:
-    
+
         print(ve)
 
     def parse_notice(link,today):
-        
+
         try:
 
             if
