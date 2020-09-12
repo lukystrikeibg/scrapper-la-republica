@@ -30,7 +30,8 @@
 
     except  ValueError as ve:
 
-        print(ve)
+        print(v
+        e)
 
     def parse_notice(link,today):
 
