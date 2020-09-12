@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+# cabecera
+=======
+
+>>>>>>> cabecera
+#este es un scrapper la republica
+
+
+import requests
+import lxml.html as html
+import os
+import datetime
+
+
+
+XPATH_Link_TO_ARTICLE= '//div[@class="col mb-4"]//@href'
+XPATH_TITLE='//div[@class="mb-auto"]/text-fill/a/text()'
+XPATH_SUMARY='//div[@class="lead"]/p/text()'
+XPATH_BODY='//div[@class="html-content"]/p/text)
