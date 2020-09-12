@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # cabecera
+=======
+
+>>>>>>> cabecera
 #este es un scrapper la republica
 
 
