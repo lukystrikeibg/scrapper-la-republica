@@ -1,3 +1,5 @@
+i
+i
 def parse_notice(link,today):
     try:
         response= requests.get(link)
