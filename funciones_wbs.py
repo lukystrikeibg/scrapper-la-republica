@@ -2,7 +2,10 @@
 # estoy en librerira listos para agregra las librerias
 
 # atencion este es librerira
-
+import requests
+import lxml.html as html
+import os
+import datetime
 
 
 def parse_notice(link,today):
